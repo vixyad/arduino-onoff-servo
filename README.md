@@ -2,11 +2,11 @@
 
 Created this to turn on my AC for 10 minutes every one hour. Uses a Servo to press a soft button on the Thermostat on the wall. For now powering it with a powerbank and USB cable.
 ## Components
-Arduino board
-Servo
-Push button
-Jumper cables
-Glue gun
+- Arduino board
+- Servo
+- Push button
+- Jumper cables
+- Glue gun
 
 ## Circuit
 <!-- [![Circuit Design](https://raw.githubusercontent.com/vixyad/arduino-onoff-servo/master/arduino-on-off-servo-circuit.png)](https://github.com/vixyad/arduino-onoff-servo)-->
