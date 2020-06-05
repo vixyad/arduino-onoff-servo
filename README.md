@@ -10,9 +10,9 @@ During the ON State, arduino in built LED blinks faster so we can know if its ON
 Any time if the push button is pressed, it presses the button and switches the State internally from ON to OFF or vice versa.
 
 ## Limitations
--- Can't identify if someone manually pressed the button, although we can know the Internal state from LED blink rate
--- Can't change the time yet.
--- Doesn't consider the actual room temperature ROFL
+- Can't identify if someone manually pressed the button, although we can know the Internal state from LED blink rate
+- Can't change the time yet.
+- Doesn't consider the actual room temperature ROFL
 
 ## Components
 - Arduino board
