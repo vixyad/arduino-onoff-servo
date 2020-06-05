@@ -1,6 +1,19 @@
 # Arduino - Press a button to turn on and turn off something using servo
 
-Created this to turn on my AC for 10 minutes every one hour. Uses a Servo to press a soft button on the Thermostat on the wall. For now powering it with a powerbank and USB cable.
+Created this to turn on my AC just for 10 minutes every 60 minutes. Uses a Servo to press a soft button on the Thermostat on the wall. For now powering it with a powerbank and mini USB cable.
+
+## What it does
+Turns the Servo to press the button. Changes the State of the Button to ON state internally.
+Keeps it in ON state for "onTime" Number of minutes 
+After the On time expires, presses the button again and Switches to OFF state internally for "offTime" number of minutes
+During the ON State, arduino in built LED blinks faster so we can know if its ON, and slowly when its OFF
+Any time if the push button is pressed, it presses the button and switches the State internally from ON to OFF or vice versa.
+
+## Limitations
+-- Can't identify if someone manually pressed the button, although we can know the Internal state from LED blink rate
+-- Can't change the time yet.
+-- Doesn't consider the actual room temperature ROFL
+
 ## Components
 - Arduino board
 - Servo
