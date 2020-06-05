@@ -9,10 +9,10 @@ Created this to turn on my AC for 10 minutes every one hour. Uses a Servo to pre
 - Glue gun
 
 ## Circuit
-<!-- [![Circuit Design](https://raw.githubusercontent.com/vixyad/arduino-onoff-servo/master/arduino-on-off-servo-circuit.png)](https://github.com/vixyad/arduino-onoff-servo)-->
+[![Circuit Design](https://raw.githubusercontent.com/vixyad/arduino-onoff-servo/master/arduino-on-off-servo-circuit.png)](https://github.com/vixyad/arduino-onoff-servo)
 
 ## Installation
-<!-- [![Installation](https://raw.githubusercontent.com/vixyad/arduino-onoff-servo/master/arduino-result.jpg)](https://github.com/vixyad/arduino-onoff-servo)-->
+[![Installation](https://raw.githubusercontent.com/vixyad/arduino-onoff-servo/master/arduino-result.jpg)](https://github.com/vixyad/arduino-onoff-servo)
 
 ## Code
 ```c
