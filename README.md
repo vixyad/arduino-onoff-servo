@@ -9,10 +9,10 @@ Jumper cables
 Glue gun
 
 ## Circuit
-<!-- [![Circuit Design](https://raw.githubusercontent.com/vixyad/arduino-onoff-servo/master/arduino-on-off-servo-circuit.png)]-->
+<!-- [![Circuit Design](https://raw.githubusercontent.com/vixyad/arduino-onoff-servo/master/arduino-on-off-servo-circuit.png) (https://github.com/vixyad/arduino-onoff-servo)]-->
 
 ## Installation
-<!-- [![Installation](https://raw.githubusercontent.com/vixyad/arduino-onoff-servo/master/arduino-result.jpg)]-->
+<!-- [![Installation](https://raw.githubusercontent.com/vixyad/arduino-onoff-servo/master/arduino-result.jpg) (https://github.com/vixyad/arduino-onoff-servo)]-->
 
 ## Code
 ```c
